@@ -1,7 +1,7 @@
 ## Aperçu
 Le projet Noyales est un site e-commerce dédié à la vente de meubles vintage des années 80-90, mettant en avant un style rétro. Cette réalisation a été menée par une équipe de 8 personnes sur une période de deux semaines. L'équipe était structurée en deux sous-groupes distincts, l'un axé sur le développement côté backend et l'autre sur le frontend.
 
-<img width="1470" alt="Capture d’écran 2024-01-24 à 09 53 32" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/974a0dc2-070c-4192-920b-ed67017ebcf5">
+<img width="1470" alt="noyales1" src="https://github.com/Lachignol/E-commerce-vente-de-meuble/assets/110435478/7be8a8eb-e6d1-4110-8521-0034ab484b4e">
 
 ## Technologies Utilisées
 ### Backend
@@ -34,11 +34,13 @@ Le processus de développement a suivi une structure organisationnelle efficace.
 
 
 ### Aperçu du projet :
+<img width="1470" alt="noyales2" src="https://github.com/Lachignol/E-commerce-vente-de-meuble/assets/110435478/e2161b29-b085-4710-a2c7-40865662c7f8">
+<img width="1470" alt="noyales3" src="https://github.com/Lachignol/E-commerce-vente-de-meuble/assets/110435478/7b7cda86-9c34-48be-bcd6-c4abf7058db0">
+<img width="1470" alt="noyales4" src="https://github.com/Lachignol/E-commerce-vente-de-meuble/assets/110435478/e3b71841-1bc9-4837-960d-3b21283af79a">
+<img width="1470" alt="noyales5" src="https://github.com/Lachignol/E-commerce-vente-de-meuble/assets/110435478/5360e28c-948a-4ed1-8f60-dc69cb71552c">
 
-<img width="1470" alt="Capture d’écran 2024-01-24 à 09 55 03" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/271ccb60-bb3f-4e91-b351-03b49efe1f4c">
-<img width="1470" alt="Capture d’écran 2024-01-24 à 09 56 24" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/b16ad7aa-6605-4a16-999d-38b12bc18b0d">
-<img width="1470" alt="Capture d’écran 2024-01-24 à 09 55 47" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/bf09dd8c-baec-48f4-a68d-8086c22d22d5">
-<img width="1470" alt="Capture d’écran 2024-01-24 à 09 57 30" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/bf31b196-30c6-4727-8bbc-90a41db71cdd">
+
+
 
 
 
